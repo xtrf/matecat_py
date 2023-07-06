@@ -1,3 +1,6 @@
+> **Warning**
+> This is auto-generated library based on Matecat API. This is deprecated and will not be maintained anymore - XTRF does not guarantee that this code will work as intended (or at all) and cannot be held responsible for the results of running that it. 
+
 # matecat-api
 We developed a set of Rest API to let you integrate Matecat in your translation management system or in any other application. Use our API to create projects and check their status.
 
